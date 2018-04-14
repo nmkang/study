@@ -12,3 +12,9 @@ test
 훤 test 해보그라 하하하  -> 강남구
 시로 -funze
 뭐야 이상해
+
+country=GB
+ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+update_config=1
+
+이걸보시오 욱형
